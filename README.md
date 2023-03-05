@@ -1,6 +1,5 @@
 # Calculadora con Java
-Calculadora que maneja expresiones infijas (estándar) y las pasa a expresión postfija (Notación Polaca Inversa) por medio de estructuras de datos como vectores y pilas,
-donde al ejecutarse todo se obtiene su resultado
+[Ejecutar Calculadora](https://github.com/David-Carr-C/Calculadora/releases/tag/v1.0.0)
 
 ### Versión de Interfaz de usuario:
 ![UI3](https://user-images.githubusercontent.com/88515120/222944898-f4558fd4-26ec-499d-b9df-91826a44fa48.png)
@@ -17,6 +16,9 @@ donde al ejecutarse todo se obtiene su resultado
 - Regular Expressions
 - Java Enums
 - JFrames
+
+### Reglas
+Calculadora que maneja expresiones infijas (estándar) y las pasa a expresión postfija (Notación Polaca Inversa) por medio de estructuras de datos como vectores y pilas, donde al ejecutarse todo se obtiene su resultado
 
 ### Casos de Prueba
 
